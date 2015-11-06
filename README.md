@@ -67,10 +67,10 @@ PA-3 Baseball Elimination (Network Flow)
 PA-4: Boggle
 
     Specification:
-	http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
+        http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
     Code:
-	BoggleSolver.java
-	TrieSET.java
+    	BoggleSolver.java
+    	TrieSET.java
 PA-5 Burrows-Wheeler Data Compression Algorithm
 
     Specification: 
