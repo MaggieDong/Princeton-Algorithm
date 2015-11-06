@@ -1,5 +1,5 @@
 # Princeton-Algorithm
-My solution for Princeton AlgorithmI and AlgorithmII
+My solution for Princeton AlgorithmI and AlgorithmII, please use in accordance with Coursera's and any other terms that may apply.
 Programming Assignments (Algorithms, Part I and II by Kevin Wayne, Robert Sedgewick)
 
 Part I
